@@ -11,4 +11,4 @@ Autoavaliação interativa e gamificada das assistentes (baseada no [feedback-in
 - **Impressão:** "Imprimir / salvar PDF" gera uma folha A4 com resultado, agendamento, compromisso e todas as respostas. Na tela inicial também há a "versão em branco" para responder no papel.
 - O progresso fica salvo no navegador: se fechar a página no meio, é só entrar de novo com o mesmo e-mail.
 
-Para alterar assistentes, datas ou horários, edite `TEACHERS`; perguntas em `SECTIONS`; local em `LOCAL`.
+Para testar, use o e-mail `teste@maristabrasil.org`. Para alterar assistentes, datas ou horários, edite `TEACHERS`; perguntas em `SECTIONS`; local em `LOCAL`.
